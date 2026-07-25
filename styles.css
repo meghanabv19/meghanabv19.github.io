@@ -188,7 +188,14 @@ img{max-width:100%;display:block}
 
 /* ---------- Contact ---------- */
 .contact{display:grid;grid-template-columns:1fr 1.2fr;gap:1.5rem;align-items:start}
+.contact__left{display:flex;flex-direction:column;gap:.9rem}
 .contact__cards{display:grid;grid-template-columns:1fr 1fr;gap:.9rem}
+.ccard--accent{background:var(--grad);border-color:transparent}
+.ccard--accent b,.ccard--accent span{color:#07122b}
+.qr{display:flex;align-items:center;gap:1rem;background:#fff;border:1px solid var(--line);border-radius:14px;padding:1rem 1.1rem}
+.qr img{width:96px;height:96px;flex:none;border-radius:8px}
+.qr b{display:block;font-size:.95rem}
+.qr span{font-size:.85rem;color:var(--muted)}
 .ccard{background:#fff;border:1px solid var(--line);border-radius:14px;padding:1.1rem 1.2rem;transition:transform .15s,box-shadow .15s,border-color .15s}
 .ccard:hover{transform:translateY(-3px);box-shadow:var(--shadow);border-color:var(--accent)}
 .ccard b{display:block;font-size:.95rem}
