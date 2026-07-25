@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Meghana BV — Senior Data Engineer — 1-page CV</title>
+<style>
+  @page { size: A4; margin: 12mm 13mm; }
+  *{margin:0;padding:0;box-sizing:border-box}
+  :root{--ink:#0b1020;--accent:#4f46e5;--accent2:#0891b2;--muted:#5a6480;--line:#d7deec}
+  html{-webkit-print-color-adjust:exact;print-color-adjust:exact}
+  body{font-family:-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;color:#161c2e;font-size:9.4px;line-height:1.42}
+  a{color:var(--accent);text-decoration:none}
+  .wrap{max-width:190mm;margin:0 auto}
+
+  /* Header */
+  header{display:flex;justify-content:space-between;align-items:flex-start;border-bottom:2.5px solid var(--ink);padding-bottom:7px;margin-bottom:9px}
+  .name{font-size:23px;font-weight:800;letter-spacing:-.02em;line-height:1}
+  .title{font-size:10.5px;font-weight:700;color:var(--accent);margin-top:3px;letter-spacing:.01em}
+  .avail{margin-top:4px;font-size:8.4px;color:#0e7a4a;font-weight:700}
+  .contact{text-align:right;font-size:8.6px;line-height:1.6;color:#2a3350}
+  .contact b{color:#161c2e}
+
+  h2{font-size:9.6px;text-transform:uppercase;letter-spacing:.08em;color:var(--accent);border-bottom:1px solid var(--line);padding-bottom:2px;margin:9px 0 5px}
+
+  .summary{color:#2a3350}
+
+  /* two-column body */
+  .cols{display:grid;grid-template-columns:1fr;gap:0}
+
+  .skills{display:grid;grid-template-columns:1fr 1fr;gap:1px 16px}
+  .skills p{margin-bottom:2px}
+  .skills b{color:var(--ink)}
+
+  .job{margin-bottom:6px}
+  .job__h{display:flex;justify-content:space-between;align-items:baseline}
+  .job__role{font-weight:800;font-size:10px}
+  .job__role span{font-weight:600;color:var(--muted)}
+  .job__date{font-size:8.4px;color:var(--muted);font-weight:600;white-space:nowrap}
+  .client{font-weight:700;color:var(--accent2);font-size:9px;margin-top:2px}
+  ul{list-style:none;margin-top:1px}
+  li{position:relative;padding-left:9px;margin-bottom:1px;color:#242c44}
+  li::before{content:"";position:absolute;left:0;top:4.5px;width:3px;height:3px;border-radius:50%;background:var(--accent2)}
+  li b{color:var(--ink)}
+
+  .two{display:grid;grid-template-columns:1.15fr .85fr;gap:16px}
+  .certs li,.edu p{margin-bottom:1.5px}
+  .foot{margin-top:8px;padding-top:5px;border-top:1px solid var(--line);font-size:8.2px;color:var(--muted);display:flex;justify-content:space-between}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div>
+      <div class="name">Meghana BV</div>
+      <div class="title">Senior Data Engineer · SQL · ETL · Data Migration</div>
+      <div class="avail">● Available now · Full UK right to work — no visa sponsorship required</div>
+    </div>
+    <div class="contact">
+      <div><b>meghanabv11@gmail.com</b></div>
+      <div>+44 7343 059777 · London, UK</div>
+      <div><a href="https://meghanabv19.github.io">meghanabv19.github.io</a></div>
+      <div><a href="https://www.linkedin.com/in/meghana-bv-data-consultant/">LinkedIn</a> · <a href="https://github.com/meghanabv19">GitHub</a></div>
+    </div>
+  </header>
+
+  <p class="summary">
+    Senior Data Engineer &amp; Data Migration Consultant with <b>7+ years</b> designing and delivering enterprise
+    <b>ETL/ELT pipelines</b>, <b>SQL data-quality frameworks</b> and large-scale <b>SAP data migrations</b> across
+    energy, retail, manufacturing and banking — moving millions of records into production cleanly. Expert in advanced
+    SQL (CTEs, window functions, stored procedures, query optimisation); building self-service reporting and automated
+    pre/post-load validation that accelerate business sign-off. Expanding into Python, dbt, Apache Airflow and AWS.
+  </p>
+
+  <h2>Core Skills</h2>
+  <div class="skills">
+    <p><b>SQL &amp; Databases:</b> SQL (CTEs, window functions, stored procs, query optimisation), SQL Server, PostgreSQL, Teradata, DB2, AWS Aurora/RDS</p>
+    <p><b>ETL &amp; Migration:</b> ETL/ELT, Syniti ADM/ADMM, IBM DataStage, SAP S/4HANA migration, dbt, Apache Airflow, AutoSys</p>
+    <p><b>SAP:</b> LTMC, LSMW, LTMOM, IDoc, Material Master, Business Partner, Production Planning</p>
+    <p><b>Programming &amp; Cloud:</b> Python (Pandas, NumPy, SQLAlchemy, FastAPI), UNIX shell, COBOL, JCL · AWS (S3, Glue, Athena, EC2, IAM, Redshift)</p>
+    <p><b>Data Quality &amp; BI:</b> Profiling, cleansing, reconciliation, validation, governance · Tableau, self-service dashboards</p>
+    <p><b>AI Tooling:</b> Claude Code, OpenAI Codex, Gemini CLI</p>
+  </div>
+
+  <h2>Experience</h2>
+
+  <div class="job">
+    <div class="job__h">
+      <div class="job__role">Senior Data Migration Consultant <span>— Syniti</span></div>
+      <div class="job__date">Mar 2022 – Present</div>
+    </div>
+    <div class="client">BP — Energy · Mar 2025 – Present</div>
+    <ul>
+      <li>Led end-to-end ETL design and delivery for SAP Material Master migration (ERP → S/4HANA), <b>80,000+ records</b> from transformation to production load.</li>
+      <li>Built automated pre/post-load SQL validation &amp; reporting (record counts, quality metrics, failures), accelerating business sign-off and a controlled go-live.</li>
+      <li>Delivered self-service reports (duplicate analysis, positive list, config comparison) enabling independent business analysis.</li>
+    </ul>
+    <div class="client">IKEA — Retail · Jan 2024 – Feb 2025</div>
+    <ul>
+      <li>Built and optimised stored procedures for continuous Business Partner integration — <b>60,000+ records across 15+ tables</b> — improving throughput.</li>
+      <li>Implemented field-level comparison logic to classify load-ready records vs discrepancies; built the SQL layer powering load-readiness dashboards.</li>
+    </ul>
+    <div class="client">Corning Inc. — Manufacturing · Mar 2022 – Dec 2023</div>
+    <ul>
+      <li>Owned end-to-end ADM development — transformation, validation and migration for Production Planning objects (BOMs, Routings, Work Centres, Batch Masters).</li>
+      <li>Built SQL data-quality reports (postcode, email, duplicate bank/SWIFT checks) and Python profiling; provided post go-live hyper-care.</li>
+    </ul>
+  </div>
+
+  <div class="job">
+    <div class="job__h">
+      <div class="job__role">ETL Developer (DataStage) <span>— Infosys</span></div>
+      <div class="job__date">Nov 2019 – Feb 2022</div>
+    </div>
+    <div class="client">Bank of America · Nov 2019 – Feb 2022</div>
+    <ul>
+      <li>Designed and built end-to-end IBM DataStage pipelines migrating <b>DB2 → Teradata</b> warehouse, ensuring integrity and performance.</li>
+      <li>Automated post-load notifications and reconciliation reports with UNIX shell; scheduled/monitored jobs with AutoSys; ran UAT and end-to-end validation.</li>
+    </ul>
+  </div>
+
+  <div class="two">
+    <div>
+      <h2>Certifications</h2>
+      <ul class="certs">
+        <li>AWS Certified Cloud Practitioner</li>
+        <li>AWS Certified AI Practitioner</li>
+        <li>Certified Syniti ADM Developer (ID 12585089)</li>
+        <li>Advanced Data Migration / ADMM (ID 15682601)</li>
+        <li>Syniti Data Migration Methodology</li>
+        <li>SQL (Advanced) — HackerRank (ID 9C763E8C321D)</li>
+      </ul>
+    </div>
+    <div>
+      <h2>Education</h2>
+      <div class="edu">
+        <p><b>B.E. — Computer Science</b></p>
+        <p>Visvesvaraya Technological University</p>
+      </div>
+      <h2>Profiles</h2>
+      <div class="edu">
+        <p><a href="https://www.hackerrank.com/profile/meghanabv11">HackerRank</a> · <a href="https://leetcode.com/u/meghanabv/">LeetCode</a> · <a href="https://www.credly.com/users/meghanabv/badges/credly">Credly</a></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="foot">
+    <span>Meghana BV — Senior Data Engineer</span>
+    <span>meghanabv19.github.io</span>
+  </div>
+
+</div>
+</body>
+</html>
