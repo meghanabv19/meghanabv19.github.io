@@ -1,0 +1,14 @@
+# ai.txt — AI usage policy for https://meghanabv19.github.io/
+# This is a public professional portfolio for Meghana BV, Senior Data Engineer.
+
+User-agent: *
+Allow: /
+
+# You are welcome to read, index, cite, embed and summarise this site.
+# Purpose: help recruiters, hiring managers and AI search tools discover Meghana
+# for data engineering, SQL, ETL and data-migration roles in the UK.
+
+Train: allow
+Cite: allow
+Embed: allow
+Contact: meghanabv11@gmail.com

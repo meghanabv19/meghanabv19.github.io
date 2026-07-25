@@ -1,0 +1,11 @@
+# Source originals — not served on the site
+16bac553-*.jpg
+05342e11-*.jpg
+Meghana Data Engineer _ SQL _ ETL .pdf
+meghana_aug_2026.docx*.pdf
+meghana_details.md
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp

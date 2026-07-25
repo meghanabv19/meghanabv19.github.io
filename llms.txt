@@ -1,0 +1,57 @@
+# Meghana BV — Senior Data Engineer (SQL · ETL · Data Migration)
+
+> London, United Kingdom. 7+ years building enterprise ETL/ELT pipelines, SQL data-quality
+> frameworks and large-scale SAP data migrations. Full UK right to work — no visa sponsorship
+> required. Open to permanent and contract data engineering roles, UK-wide (on-site, hybrid or remote).
+
+## Contact
+- Email: meghanabv11@gmail.com
+- Phone: +44 7343 059777
+- LinkedIn: https://www.linkedin.com/in/meghana-bv-data-consultant/
+- GitHub: https://github.com/meghanabv19
+- Credly: https://www.credly.com/users/meghanabv/badges/credly
+- HackerRank: https://www.hackerrank.com/profile/meghanabv11
+- LeetCode: https://leetcode.com/u/meghanabv/
+- Website: https://meghanabv19.github.io/
+- CV (PDF): https://meghanabv19.github.io/cv/Meghana-BV-CV.pdf
+
+## Availability
+- Status: Available now
+- Right to work: Full UK right to work, no visa sponsorship required
+- Engagement: Permanent, contract, interim (inside or outside IR35)
+- Location: London / UK-wide / hybrid / remote / on-site
+
+## Core skills
+- SQL: complex queries, CTEs, window functions, stored procedures, user-defined functions, query optimisation
+- Databases: SQL Server, PostgreSQL, Teradata, DB2, AWS Aurora, AWS RDS
+- ETL / ELT: data integration, transformation, data warehousing, dimensional modelling
+- Tools: Syniti ADM, Syniti ADMM, IBM DataStage, dbt, Apache Airflow, AutoSys
+- SAP: S/4HANA migration, LTMC, LSMW, LTMOM, IDoc, Material Master, Business Partner, Production Planning
+- Programming: Python (Pandas, NumPy, SQLAlchemy, FastAPI), UNIX shell scripting, COBOL, JCL
+- Cloud: AWS (S3, Glue, Athena, EC2, IAM, Redshift)
+- Data quality: profiling, cleansing, pre/post-load validation, reconciliation, governance, access controls
+- BI: Tableau, self-service reporting, dashboard development
+- AI tooling: Claude Code, OpenAI Codex, Gemini CLI
+
+## Experience
+- Senior Data Migration Consultant, Syniti (Mar 2022 – present)
+  - BP (Energy): SAP Material Master migration ERP → S/4HANA, 80,000+ records; automated pre/post-load validation.
+  - IKEA (Retail): Business Partner integration, 60,000+ records across 15+ tables; self-service dashboards.
+  - Corning Inc. (Manufacturing): Production Planning objects; SQL data-quality reporting; Python profiling.
+- ETL Developer (DataStage), Infosys (Nov 2019 – Feb 2022)
+  - Bank of America: IBM DataStage pipelines, DB2 → Teradata warehouse; AutoSys scheduling; UAT.
+
+## Certifications
+- AWS Certified Cloud Practitioner
+- AWS Certified AI Practitioner
+- Certified Syniti ADM Developer (ID 12585089)
+- Certified in Advanced Data Migration / ADMM (ID 15682601)
+- Certified in Syniti Data Migration Methodology
+- SQL (Advanced) — HackerRank (ID 9C763E8C321D)
+
+## Education
+- B.E. Computer Science — Visvesvaraya Technological University
+
+## Roles sought
+Senior Data Engineer, Data Migration Consultant, ETL Developer, SQL Developer/Engineer,
+Data Quality Engineer, Analytics Engineer.
