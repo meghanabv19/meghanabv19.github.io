@@ -9,3 +9,7 @@ meghana_details.md
 .DS_Store
 Thumbs.db
 *.swp
+
+# Local job-search working docs
+JOB_SEARCH.md
+APPLICATION_PACK.md

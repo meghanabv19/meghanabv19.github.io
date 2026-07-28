@@ -17,7 +17,7 @@ recruiters and hiring managers for **Senior Data Engineer / Data Migration** rol
 - **Title:** Senior Data Engineer — SQL · ETL · Data Migration
 - **Experience:** 7+ years
 - **Location:** London, UK. **Full UK right to work — no visa sponsorship required.**
-- **Public email:** meghanabv11@gmail.com  *(second CV had meghanalondon1@gmail.com — not used)*
+- **Public email:** meghanalondon1@gmail.com  *(switched site-wide to match the London CV, per request 2026-07-28)*
 - **Phone:** +44 7343 059777  *(one CV showed a malformed +07343059777; corrected)*
 - **Links:** LinkedIn `meghana-bv-data-consultant` · GitHub `meghanabv19` ·
   Credly `meghanabv` · HackerRank `meghanabv11` · LeetCode `meghanabv`

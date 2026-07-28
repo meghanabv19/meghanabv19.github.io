@@ -5,7 +5,7 @@
 > required. Open to permanent and contract data engineering roles, UK-wide (on-site, hybrid or remote).
 
 ## Contact
-- Email: meghanabv11@gmail.com
+- Email: meghanalondon1@gmail.com
 - Phone: +44 7343 059777
 - LinkedIn: https://www.linkedin.com/in/meghana-bv-data-consultant/
 - GitHub: https://github.com/meghanabv19
@@ -29,29 +29,30 @@
 - Tools: Syniti ADM, Syniti ADMM, IBM DataStage, dbt, Apache Airflow, AutoSys
 - SAP: S/4HANA migration, LTMC, LSMW, LTMOM, IDoc, Material Master, Business Partner, Production Planning
 - Programming: Python (Pandas, NumPy, SQLAlchemy, FastAPI), UNIX shell scripting, COBOL, JCL
-- Cloud: AWS (S3, Glue, Athena, EC2, IAM, Redshift)
+- Cloud: AWS (S3, Glue, Athena, EC2, IAM, Redshift), BigQuery, SAP Cloud, on-premises
 - Data quality: profiling, cleansing, pre/post-load validation, reconciliation, governance, access controls
 - BI: Tableau, self-service reporting, dashboard development
 - AI tooling: Claude Code, OpenAI Codex, Gemini CLI
 
 ## Experience
-- Senior Data Migration Consultant, Syniti (Mar 2022 – present)
-  - BP (Energy): SAP Material Master migration ERP → S/4HANA, 80,000+ records; automated pre/post-load validation.
-  - IKEA (Retail): Business Partner integration, 60,000+ records across 15+ tables; self-service dashboards.
-  - Corning Inc. (Manufacturing): Production Planning objects; SQL data-quality reporting; Python profiling.
+- Senior Data Migration Consultant, Syniti (Feb 2022 – Aug 2026)
+  - BP (Energy, Jan 2025 – Aug 2026): SAP Material Master migration ERP → S/4HANA, 80,000+ records; automated pre/post-load validation.
+  - IKEA (Retail, Dec 2023 – Jan 2025): Business Partner integration, 60,000+ records across 15+ tables; self-service dashboards.
+  - Corning Inc. (Manufacturing, Feb 2022 – Dec 2023): Production Planning objects; SQL data-quality reporting; Python profiling.
 - ETL Developer (DataStage), Infosys (Nov 2019 – Feb 2022)
   - Bank of America: IBM DataStage pipelines, DB2 → Teradata warehouse; AutoSys scheduling; UAT.
 
 ## Certifications
-- AWS Certified Cloud Practitioner
-- AWS Certified AI Practitioner
-- Certified Syniti ADM Developer (ID 12585089)
-- Certified in Advanced Data Migration / ADMM (ID 15682601)
-- Certified in Syniti Data Migration Methodology
-- SQL (Advanced) — HackerRank (ID 9C763E8C321D)
+- AWS Certified Cloud Practitioner (Jul 2026)
+- AWS Certified AI Practitioner (Jul 2026)
+- AWS Certified Data Engineer (in progress)
+- Certified Syniti ADM Developer (ID 12585089, Aug 2023)
+- Certified in Advanced Data Migration / ADMM (ID 15682601, Dec 2024)
+- Certified in Syniti Data Migration Methodology (Jun 2024)
+- SQL (Advanced) — HackerRank (ID 9C763E8C321D, Jan 2026)
 
 ## Education
-- B.E. Computer Science — Visvesvaraya Technological University
+- B.E. Computer Science — Visvesvaraya Technological University (Jun 2019)
 
 ## Roles sought
 Senior Data Engineer, Data Migration Consultant, ETL Developer, SQL Developer/Engineer,

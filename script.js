@@ -20,7 +20,7 @@
         'Rate/sal:  ' + v('rate') + '\n\n' +
         'Notes:\n' + v('notes') + '\n\n' +
         '—\n' + v('name') + '\n' + v('reply');
-      window.location.href = 'mailto:meghanabv11@gmail.com'
+      window.location.href = 'mailto:meghanalondon1@gmail.com'
         + '?subject=' + encodeURIComponent(subject)
         + '&body=' + encodeURIComponent(body);
     });
