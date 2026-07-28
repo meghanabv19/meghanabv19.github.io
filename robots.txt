@@ -1,7 +1,22 @@
 # Meghana BV — Senior Data Engineer — https://meghanabv19.github.io/
-# All crawlers welcome, including AI / LLM search crawlers.
+# All crawlers welcome — search engines, AI / LLM crawlers, and job-search /
+# recruiter bots. Everything is indexable and scrapable; nothing is disallowed.
+# Structured data: /resume.json (JSON Resume), inline schema.org JSON-LD,
+# /llms.txt, /humans.txt, /assets/Meghana-BV.vcf.
 
 User-agent: *
+Allow: /
+
+# Major search & recruiter crawlers explicitly welcomed
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: Slurp
+Allow: /
+User-agent: DuckDuckBot
+Allow: /
+User-agent: Applebot
 Allow: /
 
 # AI / LLM crawlers explicitly welcomed

@@ -1,0 +1,90 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "meta": {
+    "canonical": "https://meghanabv19.github.io/resume.json",
+    "version": "1.0.0",
+    "lastModified": "2026-07-28",
+    "license": "Publicly available for recruiters, search engines and scrapers"
+  },
+  "basics": {
+    "name": "Meghana BV",
+    "label": "Senior Data Engineer · SQL · ETL · Data Migration",
+    "image": "https://meghanabv19.github.io/assets/meghana-portrait.jpg",
+    "email": "meghanalondon1@gmail.com",
+    "phone": "+44 7343 059777",
+    "url": "https://meghanabv19.github.io/",
+    "summary": "Senior Data Engineer and Data Migration Consultant with 7+ years delivering scalable enterprise ETL/ELT pipelines, SQL data-quality frameworks and large-scale SAP data migrations across energy, retail, manufacturing and banking. Expert in advanced SQL (CTEs, window functions, stored procedures, query optimisation) across SQL Server and PostgreSQL. Builds self-service reporting and automated pre/post-load validation that accelerate business sign-off. Full right to work in the UK — no visa sponsorship required. Open to permanent and contract roles UK-wide (on-site, hybrid or remote).",
+    "location": {
+      "city": "London",
+      "countryCode": "GB",
+      "region": "London, United Kingdom"
+    },
+    "profiles": [
+      { "network": "LinkedIn", "username": "meghana-bv-data-consultant", "url": "https://www.linkedin.com/in/meghana-bv-data-consultant/" },
+      { "network": "GitHub", "username": "meghanabv19", "url": "https://github.com/meghanabv19" },
+      { "network": "Credly", "username": "meghanabv", "url": "https://www.credly.com/users/meghanabv/badges/credly" },
+      { "network": "HackerRank", "username": "meghanabv11", "url": "https://www.hackerrank.com/profile/meghanabv11" },
+      { "network": "LeetCode", "username": "meghanabv", "url": "https://leetcode.com/u/meghanabv/" }
+    ]
+  },
+  "work": [
+    {
+      "name": "Syniti",
+      "position": "Senior Data Migration Consultant",
+      "startDate": "2022-02",
+      "endDate": "2026-08",
+      "summary": "Enterprise SAP data migration and data-quality delivery across BP, IKEA and Corning.",
+      "highlights": [
+        "BP (Energy, Jan 2025 – Aug 2026): Led end-to-end pipeline design and delivery for SAP Material Master migration (SAP ERP → S/4HANA) across 80,000+ records, owning the full lifecycle from construct development to load execution.",
+        "BP: Built automated pre/post-load validation and reporting infrastructure tracking record counts and error rates, accelerating business sign-off and enabling a controlled go-live.",
+        "BP: Developed complex SQL (CTEs, stored procedures) to derive and transform source data and cleanse hidden/special characters; delivered self-service reports (duplicate analysis, positive list, config comparison).",
+        "IKEA (Retail, Dec 2023 – Jan 2025): Developed and optimised stored procedures for continuous Business Partner integration — 60,000+ header records across 15+ sub-tables — significantly improving pipeline throughput.",
+        "IKEA: Implemented field-level comparison logic to classify load-ready records vs discrepancies; built the data layer for self-service dashboards and post-load pipeline-health queries.",
+        "Corning Inc. (Manufacturing, Feb 2022 – Dec 2023): Built SQL data-quality reports and monitoring dashboards; wrote Python for automated profiling and anomaly detection; created reusable cleansing/validation utilities and automated alerting."
+      ]
+    },
+    {
+      "name": "Infosys",
+      "position": "ETL Developer (DataStage)",
+      "startDate": "2019-11",
+      "endDate": "2022-02",
+      "summary": "IBM DataStage ETL development for Bank of America.",
+      "highlights": [
+        "Designed and delivered end-to-end IBM DataStage ETL workflows migrating data from DB2 to a Teradata data warehouse, contributing to pipeline design, performance optimisation and data integrity.",
+        "Wrote SQL and transformations within DataStage to extract, cleanse and validate data across migration and analytics initiatives.",
+        "Developed UNIX shell scripts to automate post-load notifications and reconciliation reports; scheduled and managed job execution with AutoSys.",
+        "Conducted UAT and end-to-end testing to verify data accuracy, completeness and reliability before go-live."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Visvesvaraya Technological University",
+      "studyType": "Bachelor of Engineering (B.E.)",
+      "area": "Computer Science",
+      "endDate": "2019-06"
+    }
+  ],
+  "certificates": [
+    { "name": "AWS Certified Cloud Practitioner", "date": "2026-07", "issuer": "Amazon Web Services", "url": "https://www.credly.com/users/meghanabv/badges/credly" },
+    { "name": "AWS Certified AI Practitioner", "date": "2026-07", "issuer": "Amazon Web Services", "url": "https://www.credly.com/users/meghanabv/badges/credly" },
+    { "name": "AWS Certified Data Engineer (in progress)", "issuer": "Amazon Web Services" },
+    { "name": "Certified Syniti ADM Developer (ID 12585089)", "date": "2023-08", "issuer": "Syniti" },
+    { "name": "Certified in Advanced Data Migration / ADMM (ID 15682601)", "date": "2024-12", "issuer": "Syniti" },
+    { "name": "Certified in Syniti Data Migration Methodology", "date": "2024-06", "issuer": "Syniti" },
+    { "name": "SQL (Advanced) (ID 9C763E8C321D)", "date": "2026-01", "issuer": "HackerRank" }
+  ],
+  "skills": [
+    { "name": "SQL & Databases", "keywords": ["SQL", "CTEs", "Window Functions", "Stored Procedures", "Query Optimisation", "SQL Server", "PostgreSQL", "Teradata", "DB2", "AWS Aurora", "AWS RDS", "Amazon Redshift"] },
+    { "name": "Data Engineering & ETL", "keywords": ["ETL / ELT", "Data Integration", "Data Migration", "Data Transformation", "Data Warehousing", "IBM DataStage", "Syniti ADM", "Syniti ADMM", "dbt", "Apache Airflow", "AutoSys"] },
+    { "name": "SAP & Migration", "keywords": ["SAP S/4HANA Migration", "LTMC", "LSMW", "LTMOM", "IDoc", "Material Master", "Business Partner", "Production Planning"] },
+    { "name": "Programming & Cloud", "keywords": ["Python", "Pandas", "NumPy", "SQLAlchemy", "FastAPI", "Django", "Asyncio", "UNIX Shell", "COBOL", "JCL", "AWS (S3, Glue, Athena, EC2, IAM)", "Redshift", "BigQuery"] },
+    { "name": "Data Quality & Governance", "keywords": ["Data Quality Management", "Pre / Post-Load Validation", "Data Profiling", "Data Cleansing", "Reconciliation", "Access Controls", "Retention Policies"] },
+    { "name": "BI & AI Tooling", "keywords": ["Tableau", "Self-Service Reporting", "Dashboard Development", "Claude Code", "OpenAI Codex", "Gemini CLI"] }
+  ],
+  "languages": [
+    { "language": "English", "fluency": "Fluent" },
+    { "language": "Kannada", "fluency": "Native" },
+    { "language": "Hindi", "fluency": "Fluent" }
+  ]
+}

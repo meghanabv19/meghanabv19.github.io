@@ -15,6 +15,7 @@
 - Website: https://meghanabv19.github.io/
 - CV (PDF): https://meghanabv19.github.io/cv/Meghana-BV-CV.pdf
 - CV — 1 page (PDF): https://meghanabv19.github.io/cv/Meghana-BV-CV-1page.pdf
+- Résumé (structured JSON Resume): https://meghanabv19.github.io/resume.json
 
 ## Availability
 - Status: Available now
