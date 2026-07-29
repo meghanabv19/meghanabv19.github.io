@@ -17,6 +17,7 @@
 - CV — 1 page (PDF): https://meghanabv19.github.io/cv/Meghana-BV-CV-1page.pdf
 - Résumé (structured JSON Resume): https://meghanabv19.github.io/resume.json
 - Résumé (plain text): https://meghanabv19.github.io/resume.txt
+- Résumé (hosted JSON Resume registry): https://registry.jsonresume.org/meghanabv19
 
 ## Availability
 - Status: OPEN TO WORK — actively seeking, available from August 2026
