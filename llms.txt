@@ -16,9 +16,10 @@
 - CV (PDF): https://meghanabv19.github.io/cv/Meghana-BV-CV.pdf
 - CV — 1 page (PDF): https://meghanabv19.github.io/cv/Meghana-BV-CV-1page.pdf
 - Résumé (structured JSON Resume): https://meghanabv19.github.io/resume.json
+- Résumé (plain text): https://meghanabv19.github.io/resume.txt
 
 ## Availability
-- Status: Available now
+- Status: OPEN TO WORK — actively seeking, available from August 2026
 - Right to work: Full UK right to work, no visa sponsorship required
 - Engagement: Permanent, contract, interim (inside or outside IR35)
 - Location: London / UK-wide / hybrid / remote / on-site

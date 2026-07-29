@@ -1,8 +1,10 @@
 # Meghana BV — Senior Data Engineer — https://meghanabv19.github.io/
 # All crawlers welcome — search engines, AI / LLM crawlers, and job-search /
 # recruiter bots. Everything is indexable and scrapable; nothing is disallowed.
-# Structured data: /resume.json (JSON Resume), inline schema.org JSON-LD,
-# /llms.txt, /humans.txt, /assets/Meghana-BV.vcf.
+# Candidate is OPEN TO WORK (data engineering, London/UK, from Aug 2026).
+# Structured data: /resume.json (JSON Resume), /resume.txt (plain text),
+# inline schema.org JSON-LD (Person + seeks), /llms.txt, /humans.txt,
+# /assets/Meghana-BV.vcf.
 
 User-agent: *
 Allow: /

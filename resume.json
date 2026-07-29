@@ -3,8 +3,11 @@
   "meta": {
     "canonical": "https://meghanabv19.github.io/resume.json",
     "version": "1.0.0",
-    "lastModified": "2026-07-28",
-    "license": "Publicly available for recruiters, search engines and scrapers"
+    "lastModified": "2026-07-29",
+    "license": "Publicly available for recruiters, search engines and scrapers",
+    "openToWork": true,
+    "availability": "Open to work — available from August 2026; permanent or contract; London / UK-wide / remote",
+    "seeking": ["Senior Data Engineer", "Data Migration Consultant", "ETL Developer", "SQL Developer / Engineer", "Data Quality Engineer", "Analytics Engineer"]
   },
   "basics": {
     "name": "Meghana BV",

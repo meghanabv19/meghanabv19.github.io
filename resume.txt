@@ -1,0 +1,86 @@
+MEGHANA BV — SENIOR DATA ENGINEER (SQL · ETL · DATA MIGRATION)
+================================================================
+
+OPEN TO WORK — available from August 2026. Permanent or contract.
+London / UK-wide / hybrid / remote. Full UK right to work — no visa
+sponsorship required.
+
+CONTACT
+-------
+Email:    meghanalondon1@gmail.com
+Phone:    +44 7343 059777
+Website:  https://meghanabv19.github.io/
+LinkedIn: https://www.linkedin.com/in/meghana-bv-data-consultant/
+GitHub:   https://github.com/meghanabv19
+Location: London, United Kingdom
+
+SEEKING
+-------
+Senior Data Engineer · Data Migration Consultant · ETL Developer ·
+SQL Developer / Engineer · Data Quality Engineer · Analytics Engineer
+
+PROFESSIONAL SUMMARY
+--------------------
+Senior Data Engineer and Data Migration Consultant with 7+ years delivering
+scalable enterprise ETL/ELT pipelines, SQL data-quality frameworks and
+large-scale SAP data migrations across energy, retail, manufacturing and
+banking. Expert in advanced SQL (CTEs, window functions, stored procedures,
+query optimisation) across SQL Server and PostgreSQL. Builds self-service
+reporting and automated pre/post-load validation that accelerate business
+sign-off. Managing data governance, access controls and privacy-compliant
+handling across millions of records.
+
+CORE SKILLS
+-----------
+SQL & Databases:  SQL, CTEs, window functions, stored procedures, query
+                  optimisation; SQL Server, PostgreSQL, Teradata, DB2,
+                  AWS Aurora/RDS, Amazon Redshift
+Data Engineering: ETL/ELT, data integration, transformation, warehousing,
+                  IBM DataStage, Syniti ADM/ADMM, dbt, Apache Airflow, AutoSys
+SAP & Migration:  SAP S/4HANA migration, LTMC, LSMW, LTMOM, IDoc,
+                  Material Master, Business Partner, Production Planning
+Programming:      Python (Pandas, NumPy, SQLAlchemy, FastAPI, Django, Asyncio),
+                  UNIX shell, COBOL, JCL
+Cloud:            AWS (S3, Glue, Athena, EC2, IAM, Redshift), BigQuery, SAP Cloud
+Data Quality:     profiling, cleansing, pre/post-load validation, reconciliation,
+                  governance, access controls
+BI & AI Tooling:  Tableau, self-service dashboards; Claude Code, OpenAI Codex,
+                  Gemini CLI
+
+EXPERIENCE
+----------
+Senior Data Migration Consultant — Syniti (Feb 2022 – Aug 2026)
+  BP — Energy (Jan 2025 – Aug 2026)
+    - Led end-to-end pipeline design and delivery for SAP Material Master
+      migration (SAP ERP -> S/4HANA) across 80,000+ records.
+    - Built automated pre/post-load validation and reporting; accelerated
+      business sign-off and a controlled go-live.
+    - Developed complex SQL (CTEs, stored procedures) and self-service reports.
+  IKEA — Retail (Dec 2023 – Jan 2025)
+    - Optimised stored procedures for continuous Business Partner integration
+      (60,000+ records across 15+ sub-tables); built self-service dashboards.
+  Corning Inc. — Manufacturing (Feb 2022 – Dec 2023)
+    - SQL data-quality reporting; Python profiling and anomaly detection;
+      reusable cleansing/validation utilities and automated alerting.
+
+ETL Developer (DataStage) — Infosys (Nov 2019 – Feb 2022)
+  Bank of America
+    - IBM DataStage ETL pipelines migrating DB2 -> Teradata warehouse;
+      UNIX shell automation; AutoSys scheduling; UAT and end-to-end testing.
+
+CERTIFICATIONS
+--------------
+- AWS Certified Cloud Practitioner (Jul 2026)
+- AWS Certified AI Practitioner (Jul 2026)
+- AWS Certified Data Engineer (in progress)
+- Certified Syniti ADM Developer (ID 12585089, Aug 2023)
+- Advanced Data Migration / ADMM (ID 15682601, Dec 2024)
+- Syniti Data Migration Methodology (Jun 2024)
+- SQL (Advanced) — HackerRank (ID 9C763E8C321D, Jan 2026)
+
+EDUCATION
+---------
+B.E. Computer Science — Visvesvaraya Technological University (Jun 2019)
+
+Machine-readable versions: /resume.json (JSON Resume), /llms.txt, inline
+schema.org JSON-LD on https://meghanabv19.github.io/
